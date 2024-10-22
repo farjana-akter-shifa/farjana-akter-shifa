@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farjana-akter-shifa" alt="farjana-akter-shifa" /></a> </p>
 
-- 🔭 I’m currently working on [bug reporting](https://www.decathlon.ch/fr/)
+- 🔭 I’m currently working on [Selenium Project](https://github.com/farjana-akter-shifa/Selenium-Project-with-Java.git)
 
 - 🌱 I’m currently learning **Advanced Selenium WebDriver with JAVA**
 
