@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shifakhan.nrn@gmail.com**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/farjana-akter-3aa827169/) [Blog](https://about.me/farjana_akter)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/farjana-akter-3aa827169/) [About Me](https://about.me/farjana_akter)
 
 - ⚡ Fun fact **I love to travel**
 
