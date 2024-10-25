@@ -17,13 +17,13 @@
 
 - 📫 How to reach me **shifakhan.nrn@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/farjana-akter-3aa827169/](https://www.linkedin.com/in/farjana-akter-3aa827169/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/farjana-akter-3aa827169/) [Blog](https://about.me/farjana_akter)
 
 - ⚡ Fun fact **I love to travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/farjana-akter-3aa827169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farjana-akter-shifa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/farjana-akter-3aa827169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farjana-akter-shifa" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
