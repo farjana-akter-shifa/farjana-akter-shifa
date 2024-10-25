@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/farjana-akter-shifa/Software-Testing-Project/](https://github.com/farjana-akter-shifa/Software-Testing-Project/)
+- 👨‍💻 All of my projects are available at [Software-Testing-Project](https://github.com/farjana-akter-shifa/Software-Testing-Project/) & [Selenium Project](https://github.com/farjana-akter-shifa/Selenium-Project-with-Java)
 
-- 💬 Ask me about **Selenium, JAVA, JavaScript, POSTMAN, Trello, Cypress, JIRA**
+- 💬 Ask me about **SeleniumWebdriver, JAVA, JavaScript, POSTMAN, Trello, Zephyr, Cypress, JIRA**
 
 - 📫 How to reach me **shifakhan.nrn@gmail.com**
 
